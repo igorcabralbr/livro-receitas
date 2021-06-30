@@ -1,6 +1,6 @@
 # strogonoff de Frango
 
-### ingredientes
+### ingrediente
 
  - 1 quilo de strogonoff
 
